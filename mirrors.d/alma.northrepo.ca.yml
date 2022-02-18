@@ -1,0 +1,13 @@
+---
+name: alma.northrepo.ca
+address:
+  http: http://alma.northrepo.ca
+  https: https://alma.northrepo.ca
+email: gellert@northrepo.ca
+geolocation:
+  continent: North America
+  country: CA
+  state_province: Ontario
+  city: Montreal
+private: false
+...
